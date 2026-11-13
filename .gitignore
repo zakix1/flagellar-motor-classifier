@@ -6,11 +6,6 @@
 /helicobacter/
 /PDB IDS/
 /Pseudomonas/
-/Salmonella/
-/Salmonella_1/
-/VIBRIO/
-/VIBRIO_1/
-*.ent
 *.pdb
 *.rar
 /*.png
